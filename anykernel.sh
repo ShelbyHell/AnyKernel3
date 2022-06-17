@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SunriseKernel BETA
+kernel.string=QuicksilveRV2 Kernel
 maintainer.string=ShelbyHell
 do.devicecheck=0
 do.modules=0
