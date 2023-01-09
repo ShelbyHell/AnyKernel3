@@ -16,7 +16,7 @@ do.cleanuponabort=0
 
 # shell variables
 block=/dev/block/bootdevice/by-name/boot;
-is_slot_device=0;
+is_slot_device=1;
 ramdisk_compression=auto;
 
 
